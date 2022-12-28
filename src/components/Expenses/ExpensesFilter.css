@@ -1,0 +1,14 @@
+.expenses-filter {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+.expenses-filter select {
+  padding: 5px 20px;
+  width: 130px;
+  height: 40px;
+  cursor: pointer;
+  font-size: 18px;
+}
